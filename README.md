@@ -2,7 +2,7 @@
 
 
 ##AUTHOR:
-This test is made by Jordi Català Holgado.
+This test is made by Jordi Català.
 
 ##PROJECT DETAILS:
 The project was done using Eclipse IDE and Java language.
